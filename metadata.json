@@ -1,0 +1,6 @@
+{
+  "name": "KisanSetu",
+  "description": "AI-powered agricultural procurement coordination ecosystem connecting farmers, procurement centres, transporters, and officials.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
